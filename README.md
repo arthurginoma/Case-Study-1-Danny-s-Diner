@@ -1,4 +1,4 @@
-# Dannys Diner | case one
+# Dannys Diner | Análise em SQL
 ## Solutions Above
 To see the documentation, click [here](https://medium.com/analytics-vidhya/8-week-sql-challenge-case-study-week-1-dannys-diner-2ba026c897ab).
 
